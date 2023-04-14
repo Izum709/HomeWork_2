@@ -6,28 +6,27 @@
 // 32679 -> 6
 
 
-        Console.Write("Введите целое число: ");
-        int number = int.Parse(Console.ReadLine());
+Console.Write("Введите целое число: ");
+int number = int.Parse(Console.ReadLine());
+int indNumber = Math.Abs(number);
+int coint = 0;
+while (indNumber > 0) 
+{
+    indNumber = indNumber / 10;
+    coint = coint +1;
+}
+if (coint < 3)
+{
+    Console.WriteLine("третьей цифры нет");
+}
+else
+{
+    int three = (int)(Math.Abs(number) / Math.Pow(10, coint - 3)) % 10;
+    Console.WriteLine($"третье число {three}");
+}
+    
+    
 
-        // Получаем абсолютное значение числа
-        int absNumber = Math.Abs(number);
-
-        // Считаем количество цифр в числе
-        int numDigits = 0;
-        while (absNumber > 0) {
-            absNumber /= 10;
-            numDigits++;
-        }
-
-        // Если число содержит меньше трех цифр, значит, он не имеет третьей цифры
-        if (numDigits < 3) {
-            Console.WriteLine("третьей цифры нет");
-        }
-        // В противном случае мы можем взять третью справа цифру
-        else {
-            int digit = (int)(Math.Abs(number) / Math.Pow(10, numDigits - 3)) % 10;
-            Console.WriteLine(digit);
-        }
 
 
 
