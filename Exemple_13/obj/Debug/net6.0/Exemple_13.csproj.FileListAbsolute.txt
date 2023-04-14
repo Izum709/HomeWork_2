@@ -1,0 +1,15 @@
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Домашка_2\HomeWork_2\Exemple_13\bin\Debug\net6.0\Exemple_13.exe
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Домашка_2\HomeWork_2\Exemple_13\bin\Debug\net6.0\Exemple_13.deps.json
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Домашка_2\HomeWork_2\Exemple_13\bin\Debug\net6.0\Exemple_13.runtimeconfig.json
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Домашка_2\HomeWork_2\Exemple_13\bin\Debug\net6.0\Exemple_13.dll
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Домашка_2\HomeWork_2\Exemple_13\bin\Debug\net6.0\Exemple_13.pdb
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Домашка_2\HomeWork_2\Exemple_13\obj\Debug\net6.0\Exemple_13.csproj.AssemblyReference.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Домашка_2\HomeWork_2\Exemple_13\obj\Debug\net6.0\Exemple_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Домашка_2\HomeWork_2\Exemple_13\obj\Debug\net6.0\Exemple_13.AssemblyInfoInputs.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Домашка_2\HomeWork_2\Exemple_13\obj\Debug\net6.0\Exemple_13.AssemblyInfo.cs
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Домашка_2\HomeWork_2\Exemple_13\obj\Debug\net6.0\Exemple_13.csproj.CoreCompileInputs.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Домашка_2\HomeWork_2\Exemple_13\obj\Debug\net6.0\Exemple_13.dll
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Домашка_2\HomeWork_2\Exemple_13\obj\Debug\net6.0\refint\Exemple_13.dll
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Домашка_2\HomeWork_2\Exemple_13\obj\Debug\net6.0\Exemple_13.pdb
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Домашка_2\HomeWork_2\Exemple_13\obj\Debug\net6.0\Exemple_13.genruntimeconfig.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Домашка_2\HomeWork_2\Exemple_13\obj\Debug\net6.0\ref\Exemple_13.dll
